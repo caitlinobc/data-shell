@@ -7,18 +7,7 @@
 # This list should include every package you need
 # Some packages are a bit outdated - warnings are OK
 # ----------------------------------------------
-# CHANGE THIS
 
-
-# ------------------------
-# install packages to use in R
-
-# packages to import and export data
-install.packages('openxlsx')
-install.packages('readxl')
-install.packages('writexl')
-install.packages('xlsx')
-install.packages('haven') #import sas files
 
 # key packages for munging and visualization
 install.packages('data.table')
